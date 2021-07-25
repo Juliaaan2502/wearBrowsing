@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e100e1d87f3eab663026c1e722d50103\viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fca1db8b271437144d16a491175e5c74\play-services-wearable-17.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\6ed698bcbf80882d0fab06a1079246cc\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\233f29e05d3f62c91d94717ecf57158d\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\97932f94b05df4779ef87c21afd768d8\wear-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\dc3efdeb21bfe033ce749010f42b490d\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\1e1f894f3187e0e4737e7e00626d423c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b913b577636afb646741ffd904028e15\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\1e3214591e5f847e6b5b2333c34f548f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\32a57310a5a32c0607f79f123d0d0ce2\play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\876b4c413259cb5e7efdc2e9dd06a71c\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b9a8ccdf08677e6ebe8a29448e9bae04\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e1c1a328fa5c525d8a813cf3d0ad18ce\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9bcad8df747e7e541c668492e993a22d\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7430e01f2c6ea8ff3578619715c15e18\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3438716bbde0c4ae93b6b3ca42413f5c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a4aa212df090916fdc5167a61460eb35\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\818f45328ee8f5b99bad88c27c6cc009\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d7ef7342eb80ff707691a83b9012e6a9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\bda27261a6bbc5e10728551c109a2777\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d2fab01d17c089ea45014664a05aa8a0\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\815bb9272ee789daabc21bc15b42e2c3\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a81ff3a6f4fe4cdba627ce49c2369465\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9f5395c9e2c4a1a11a43e64f5d81258c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c7739dfe0a1efd64a0dd260a875d3ca5\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\30e9f1d09e79c3adebc6c3a4eab13e4e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3d304d701789a8b68a410e642cabf284\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\93edb5d1bd934579af6b5cc47a2af2a7\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5f3bd6e72d1ff1a4481f72926be3faad\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e3a7d3b723deff8b2b903c0665652c62\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\64b70a68e7f77255649dcf7bb7164809\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\69846ae0a25a5c26a4168a449d371740\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5ef1457e44edea624e66c234f1571988\constraintlayout-1.1.0\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:5:22-65
+uses-feature#android.hardware.type.watch
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:7:19-61
+application
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:9:5-36:19
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fca1db8b271437144d16a491175e5c74\play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fca1db8b271437144d16a491175e5c74\play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\32a57310a5a32c0607f79f123d0d0ce2\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\32a57310a5a32c0607f79f123d0d0ce2\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d2fab01d17c089ea45014664a05aa8a0\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d2fab01d17c089ea45014664a05aa8a0\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c7739dfe0a1efd64a0dd260a875d3ca5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c7739dfe0a1efd64a0dd260a875d3ca5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5ef1457e44edea624e66c234f1571988\constraintlayout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5ef1457e44edea624e66c234f1571988\constraintlayout-1.1.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d2fab01d17c089ea45014664a05aa8a0\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:14:9-59
+uses-library#com.google.android.wearable
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:15:9-17:39
+	android:required
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:16:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:23:9-25:36
+	android:value
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:24:13-66
+activity#de.juliaaan2502.wearbrowsing.BrowserActivity
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:29:13-45
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:28:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e100e1d87f3eab663026c1e722d50103\viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e100e1d87f3eab663026c1e722d50103\viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fca1db8b271437144d16a491175e5c74\play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\fca1db8b271437144d16a491175e5c74\play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\6ed698bcbf80882d0fab06a1079246cc\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\6ed698bcbf80882d0fab06a1079246cc\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\233f29e05d3f62c91d94717ecf57158d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\233f29e05d3f62c91d94717ecf57158d\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\97932f94b05df4779ef87c21afd768d8\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\97932f94b05df4779ef87c21afd768d8\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\dc3efdeb21bfe033ce749010f42b490d\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\dc3efdeb21bfe033ce749010f42b490d\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\1e1f894f3187e0e4737e7e00626d423c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\1e1f894f3187e0e4737e7e00626d423c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b913b577636afb646741ffd904028e15\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b913b577636afb646741ffd904028e15\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\1e3214591e5f847e6b5b2333c34f548f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\1e3214591e5f847e6b5b2333c34f548f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\32a57310a5a32c0607f79f123d0d0ce2\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\32a57310a5a32c0607f79f123d0d0ce2\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\876b4c413259cb5e7efdc2e9dd06a71c\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\876b4c413259cb5e7efdc2e9dd06a71c\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b9a8ccdf08677e6ebe8a29448e9bae04\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b9a8ccdf08677e6ebe8a29448e9bae04\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e1c1a328fa5c525d8a813cf3d0ad18ce\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e1c1a328fa5c525d8a813cf3d0ad18ce\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9bcad8df747e7e541c668492e993a22d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9bcad8df747e7e541c668492e993a22d\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7430e01f2c6ea8ff3578619715c15e18\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\7430e01f2c6ea8ff3578619715c15e18\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3438716bbde0c4ae93b6b3ca42413f5c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3438716bbde0c4ae93b6b3ca42413f5c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a4aa212df090916fdc5167a61460eb35\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a4aa212df090916fdc5167a61460eb35\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\818f45328ee8f5b99bad88c27c6cc009\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\818f45328ee8f5b99bad88c27c6cc009\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d7ef7342eb80ff707691a83b9012e6a9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d7ef7342eb80ff707691a83b9012e6a9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\bda27261a6bbc5e10728551c109a2777\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\bda27261a6bbc5e10728551c109a2777\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d2fab01d17c089ea45014664a05aa8a0\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d2fab01d17c089ea45014664a05aa8a0\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\815bb9272ee789daabc21bc15b42e2c3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\815bb9272ee789daabc21bc15b42e2c3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a81ff3a6f4fe4cdba627ce49c2369465\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\a81ff3a6f4fe4cdba627ce49c2369465\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9f5395c9e2c4a1a11a43e64f5d81258c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\9f5395c9e2c4a1a11a43e64f5d81258c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c7739dfe0a1efd64a0dd260a875d3ca5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\c7739dfe0a1efd64a0dd260a875d3ca5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\30e9f1d09e79c3adebc6c3a4eab13e4e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\30e9f1d09e79c3adebc6c3a4eab13e4e\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3d304d701789a8b68a410e642cabf284\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\3d304d701789a8b68a410e642cabf284\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\93edb5d1bd934579af6b5cc47a2af2a7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\93edb5d1bd934579af6b5cc47a2af2a7\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5f3bd6e72d1ff1a4481f72926be3faad\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5f3bd6e72d1ff1a4481f72926be3faad\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e3a7d3b723deff8b2b903c0665652c62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\e3a7d3b723deff8b2b903c0665652c62\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\64b70a68e7f77255649dcf7bb7164809\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\64b70a68e7f77255649dcf7bb7164809\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\69846ae0a25a5c26a4168a449d371740\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\69846ae0a25a5c26a4168a449d371740\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5ef1457e44edea624e66c234f1571988\constraintlayout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\5ef1457e44edea624e66c234f1571988\constraintlayout-1.1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		ADDED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Projekte\WearBrowsing\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Julian\Downloads\gradle-7.0.2-all\gradle-7.0.2\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
