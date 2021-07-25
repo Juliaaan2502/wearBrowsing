@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wear Browsing</string>
+    <string name="settings_resource">Einstellungen</string>
+    <string name="app_version_resource">Browser Version</string>
+    <string name="author_resource">Autor</string>
+</resources>

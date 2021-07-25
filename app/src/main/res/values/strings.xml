@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wear Browsing</string>
+    <string name="settings_resource">Settings</string>
+    <string name="app_version" translatable="false">1.0</string>
+    <string name="app_version_resource">Browser version</string>
+    <string name="author_resource">Author</string>
+    <string name="author_resource_who" translatable="false">Juliaaan2502</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+</resources>
