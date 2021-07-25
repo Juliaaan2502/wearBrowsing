@@ -1,0 +1,12 @@
+de/juliaaan2502/wearbrowsing/databinding/ActivityMainBinding.java
+ de.juliaaan2502.wearbrowsing.databinding.ActivityMainBinding
+de/juliaaan2502/wearbrowsing/BrowserActivity.java
+ de.juliaaan2502.wearbrowsing.BrowserActivity
+ de.juliaaan2502.wearbrowsing.BrowserActivity$1
+ de.juliaaan2502.wearbrowsing.BrowserActivity$MyWebViewClient
+de/juliaaan2502/wearbrowsing/databinding/SettingsBinding.java
+ de.juliaaan2502.wearbrowsing.databinding.SettingsBinding
+de/juliaaan2502/wearbrowsing/SettingsActivity.java
+ de.juliaaan2502.wearbrowsing.SettingsActivity
+de/juliaaan2502/wearbrowsing/BuildConfig.java
+ de.juliaaan2502.wearbrowsing.BuildConfig
