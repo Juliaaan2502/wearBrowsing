@@ -1,1 +1,1 @@
-# wearBrowsing
+# Wear OS Browser
